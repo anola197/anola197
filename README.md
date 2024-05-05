@@ -21,5 +21,7 @@ I’m passionate about leveraging web technologies to create impactful solutions
 - **Tools**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Apache, Grafana, Prometheus, Jira, Postman, Visual Studio 
 
 ## GitHub Statistics 📃
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anola197&&theme=tokyonight" alt="aayushi" /></p>
+
+## Leetcode
+![](https://leetcard.jacoblin.cool/aaayushi971?ext=heatmap)
