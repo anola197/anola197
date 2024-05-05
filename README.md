@@ -20,8 +20,22 @@ I’m passionate about leveraging web technologies to create impactful solutions
 - **Libraries**: Tensorflow, Numpy, Pandas, Matplotlib
 - **Tools**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Apache, Grafana, Prometheus, Jira, Postman, Visual Studio 
 
-## GitHub Statistics 📃
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anola197&&theme=tokyonight" alt="aayushi" /></p>
+## My Coding Activity 📈
 
-## Leetcode
-![](https://leetcard.jacoblin.cool/aaayushi971?ext=heatmap)
+<table>
+  <tr>
+    <!-- GitHub Statistics -->
+    <td>
+      <h3 align="center">GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anola197&theme=tokyonight" alt="aayushi's GitHub Stats" />
+      </p>
+    </td>
+    <!-- Leetcode Statistics -->
+    <td>
+      <h3 align="center">Leetcode</h3>
+      <img src="https://leetcard.jacoblin.cool/aaayushi971?ext=heatmap" alt="aayushi's Leetcode Stats" />
+    </td>
+  </tr>
+</table>
+
