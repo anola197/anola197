@@ -9,9 +9,11 @@ I am a Software Engineer with 3+ years of experience, currently pursuing a Maste
 
 ### 🚀 Join Forces on Projects
 I’m passionate about leveraging web technologies to create impactful solutions. If you're interested in developing innovative web applications, enhancing user experience, or integrating AI into web platforms, I’d love to collaborate! Reach out if you need a teammate for hackathons!
-- 📧 Email: aaayushi971@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/aayushi197
-- 🐙 GitHub: github.com/anola197
+- 📧 **Email:** [aaayushi971@gmail.com](mailto:aaayushi971@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/aayushi197](https://www.linkedin.com/in/aayushi197)  
+- 🐙 **GitHub:** [github.com/anola197](https://github.com/anola197)  
+- 📄 **Resume:** [View My Resume](https://drive.google.com/drive/u/3/home)  
+
 
 ### 🔧 Technical Skills
 - **Languages**: C#, Python, C++, JavaScript, TypeScript
