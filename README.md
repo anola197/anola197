@@ -12,7 +12,7 @@ I’m passionate about leveraging web technologies to create impactful solutions
 - 📧 **Email:** [aaayushi971@gmail.com](mailto:aaayushi971@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/aayushi197](https://www.linkedin.com/in/aayushi197)  
 - 🐙 **GitHub:** [github.com/anola197](https://github.com/anola197)  
-- 📄 **Resume:** [View My Resume](https://drive.google.com/drive/u/3/home)  
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1OwU9gX0JCi32kMKPXMYw-AWxNdz9pnOA/view?usp=drive_link)  
 
 
 ### 🔧 Technical Skills
