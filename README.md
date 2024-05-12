@@ -16,11 +16,11 @@ I’m passionate about leveraging web technologies to create impactful solutions
 
 
 ### 🔧 Technical Skills
-- **Languages**: C#, Python, C++, JavaScript, TypeScript
+- **Languages**: C#, Python, C++, JavaScript
 - **Databases**: Postgres, MSSQL, Azure Cosmos DB, MongoDB, Elasticsearch
-- **Frameworks**: .NET, React, Angular, Flask, Express
+- **Frameworks**: .NET, Asp.Net Core, React, Flask, Express
 - **Libraries**: Tensorflow, Numpy, Pandas, Matplotlib
-- **Tools**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Apache, Grafana, Prometheus, Jira, Postman, Visual Studio 
+- **Tools\Technologies**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Apache, Grafana, Prometheus, Jira, Postman, Visual Studio 
 
 ## My Coding Activity 📈
 
