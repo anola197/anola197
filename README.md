@@ -18,7 +18,7 @@ I’m passionate about leveraging web technologies to create impactful solutions
 - **Databases**: Postgres, MSSQL, Azure Cosmos DB, MongoDB, Elasticsearch
 - **Frameworks**: .NET, Asp.Net Core, React, Flask, Express
 - **Libraries**: Tensorflow, Numpy, Pandas, Matplotlib
-- **Tools\Technologies**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Apache, Grafana, Prometheus, Jira, Postman, Visual Studio 
+- **Tools\Technologies**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Apache, Grafana, Prometheus, Jira
 
 ## My Coding Activity 📈
 
